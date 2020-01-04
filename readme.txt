@@ -1,5 +1,7 @@
-Este es un carrito de compras
+Este es un carrito de compras 
 
-realizado con php y mysql
+realizado con php y mysql 
+
+gestionando las bases de datos
 
 para utilizarlo con la empresa fusion
